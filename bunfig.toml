@@ -1,0 +1,3 @@
+[test]
+# Use happy-dom for DOM environment
+preload = ["./happydom.ts"]
